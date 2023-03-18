@@ -1,5 +1,5 @@
 """
-Flask Application for greeting users with their name.
+Flask Application for greeting users.
 
 Author: Martin Dudek
 Date: 2023-03-18
